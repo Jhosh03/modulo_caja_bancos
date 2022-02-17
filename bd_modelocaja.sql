@@ -1,0 +1,1 @@
+SELECT * FROM bd_modelo_caja.rol_usuario;
